@@ -92,3 +92,5 @@ GLHF! <3
 [github-signup-org]:    https://github.com/organizations/new
 [github-support]:       https://github.com/contact?form%5Bsubject%5D=GitHub%20Game%20Off
 [wufoo-form]:           https://gameoff.wufoo.com/forms/game-off-2016/
+
+[web-version]: https://rawgit.com/runewather/game-off-2016/master/_Web/Game.html
