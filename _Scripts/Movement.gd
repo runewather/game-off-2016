@@ -4,10 +4,10 @@ extends KinematicBody2D
 # member variables here, example:
 # var a=2
 # var b="textvar"
-var walk_speed = 100;
+var walk_speed = 100
 var velocity = Vector2()
 var player_sprite = null
-var direction;
+var direction
 
 const directions = {
 	up = 0,
